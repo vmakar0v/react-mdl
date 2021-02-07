@@ -1,5 +1,4 @@
 # [React-MDL][react-mdl-url]
-https://tleunen.github.io/react-mdl/components/card/
 [![Maintenance Status][status-image]][status-url] [![NPM version][npm-image]][npm-url] [![Build Status Linux][circleci-image]][circleci-url] [![Coverage Status][coverage-image]][coverage-url]
 
 ### Deprecation notice
@@ -8,6 +7,7 @@ This library is now deprecated. It's higly recommended to use [Material Design C
 
 ## Description
 
+<a href="https://tleunen.github.io/react-mdl/components/">Components</a>
 React-MDL is a set of React components build on top of [Material Design Lite][google-mdl-url]<sup>v1.2.1</sup>
 
 ## Requirements
