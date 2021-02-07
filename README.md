@@ -3,11 +3,10 @@
 
 ### Deprecation notice
 
-This library is now deprecated. It's higly recommended to use [Material Design Components](https://github.com/material-components/material-components-web) instead.
+This library is now deprecated. It's higly recommended to use Material Design <a href="https://tleunen.github.io/react-mdl/components/" target="_blank">Components</a> instead.
 
 ## Description
 
-<a href="https://tleunen.github.io/react-mdl/components/">Components</a>
 React-MDL is a set of React components build on top of [Material Design Lite][google-mdl-url]<sup>v1.2.1</sup>
 
 ## Requirements
